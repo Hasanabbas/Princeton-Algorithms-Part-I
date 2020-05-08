@@ -1,0 +1,31 @@
+# General
+Template
+.idea
+.lift
+*.iml
+*.png
+*.txt
+*.zip
+*.class
+*.jar
+CREDITS
+week?_*
+
+# Week 1
+InteractivePercolationVisualizer.java
+PercolationVisualizer.java
+
+# Week 2
+
+# Week 3
+LineSegment.java
+
+# Week 4
+PuzzleChecker.java
+
+# Week 5
+KdTree*.java
+*Visualizer.java
+
+# Week 6
+week6*
